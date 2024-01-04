@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesignPartterns/1.0.0": {
+        "dependencies": {
+          "CreationalPatterns": "1.0.0",
+          "StructuralPatterns": "1.0.0"
+        },
+        "runtime": {
+          "DesignPartterns.dll": {}
+        }
+      },
+      "CreationalPatterns/1.0.0": {
+        "runtime": {
+          "CreationalPatterns.dll": {}
+        }
+      },
+      "StructuralPatterns/1.0.0": {
+        "runtime": {
+          "StructuralPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPartterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreationalPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StructuralPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

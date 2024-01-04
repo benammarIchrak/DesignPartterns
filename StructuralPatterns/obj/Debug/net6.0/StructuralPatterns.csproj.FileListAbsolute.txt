@@ -1,0 +1,12 @@
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.deps.json
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.dll
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.pdb
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.csproj.AssemblyReference.cache
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.AssemblyInfoInputs.cache
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.AssemblyInfo.cs
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.dll
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\refint\StructuralPatterns.dll
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.pdb
+C:\Users\ibenammar\RiderProjects\DesignPartterns\StructuralPatterns\obj\Debug\net6.0\ref\StructuralPatterns.dll

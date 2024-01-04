@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CreationalPatterns/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CreationalPatterns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CreationalPatterns.dll": {}
+        }
+      },
+      "StructuralPatterns/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StructuralPatterns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StructuralPatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreationalPatterns/1.0.0": {
+      "type": "project",
+      "path": "../CreationalPatterns/CreationalPatterns.csproj",
+      "msbuildProject": "../CreationalPatterns/CreationalPatterns.csproj"
+    },
+    "StructuralPatterns/1.0.0": {
+      "type": "project",
+      "path": "../StructuralPatterns/StructuralPatterns.csproj",
+      "msbuildProject": "../StructuralPatterns/StructuralPatterns.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CreationalPatterns >= 1.0.0",
+      "StructuralPatterns >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ibenammar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ibenammar\\RiderProjects\\DesignPartterns\\DesignPartterns\\DesignPartterns.csproj",
+      "projectName": "DesignPartterns",
+      "projectPath": "C:\\Users\\ibenammar\\RiderProjects\\DesignPartterns\\DesignPartterns\\DesignPartterns.csproj",
+      "packagesPath": "C:\\Users\\ibenammar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ibenammar\\RiderProjects\\DesignPartterns\\DesignPartterns\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ibenammar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\ibenammar\\RiderProjects\\DesignPartterns\\CreationalPatterns\\CreationalPatterns.csproj": {
+              "projectPath": "C:\\Users\\ibenammar\\RiderProjects\\DesignPartterns\\CreationalPatterns\\CreationalPatterns.csproj"
+            },
+            "C:\\Users\\ibenammar\\RiderProjects\\DesignPartterns\\StructuralPatterns\\StructuralPatterns.csproj": {
+              "projectPath": "C:\\Users\\ibenammar\\RiderProjects\\DesignPartterns\\StructuralPatterns\\StructuralPatterns.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

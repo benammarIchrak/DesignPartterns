@@ -1,0 +1,12 @@
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.deps.json
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.dll
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.pdb
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.csproj.AssemblyReference.cache
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.AssemblyInfoInputs.cache
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.AssemblyInfo.cs
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.dll
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\refint\CreationalPatterns.dll
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.pdb
+C:\Users\ibenammar\RiderProjects\DesignPartterns\CreationalPatterns\obj\Debug\net6.0\ref\CreationalPatterns.dll

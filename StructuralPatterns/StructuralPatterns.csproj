@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Include="AdapterBillingSystem\Employee.cs" />
+      <Compile Include="AdapterBillingSystem\EmployeeAdapter.cs" />
+      <Compile Include="AdapterBillingSystem\ITarget.cs" />
+      <Compile Include="AdapterBillingSystem\ThirdPartyBillingSystem.cs" />
+      <Compile Include="AdapterECommerce\IPaypal.cs" />
+      <Compile Include="AdapterECommerce\ISquare.cs" />
+      <Compile Include="AdapterECommerce\IStripe.cs" />
+      <Compile Include="AdapterECommerce\ITransaction.cs" />
+      <Compile Include="AdapterECommerce\PaymentProvider.cs" />
+      <Compile Include="AdapterECommerce\Paypal.cs" />
+      <Compile Include="AdapterECommerce\PaypalTransactionAdapter.cs" />
+      <Compile Include="AdapterECommerce\Square.cs" />
+      <Compile Include="AdapterECommerce\SquareTransactionAdapter.cs" />
+      <Compile Include="AdapterECommerce\Stripe.cs" />
+      <Compile Include="AdapterECommerce\StripeTransactionAdapter.cs" />
+    </ItemGroup>
+
+</Project>
